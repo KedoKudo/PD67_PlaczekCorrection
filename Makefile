@@ -2,7 +2,7 @@
 
 # ----- Project Macro ----- #
 UnitTestCategory := AllTests
-UnitTestName := MyAlgorithmTest
+UnitTestName := CalculatePlaczekTest
 TestScript := test.py
 
 # ------------------------------------------------------ #
